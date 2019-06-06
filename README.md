@@ -12,6 +12,8 @@
  - System Tray Icon
  - Firewall Support
  - No Administrator Privileges needed
- ## **Screenshots**
+## **Screenshots**
 ![Main Options window](https://imgur.com/download/QJXEPei)![Connection Setttings](https://imgur.com/download/nFdHR9G)
 ![Other Settings](https://imgur.com/download/JzrxQ4u)![Log Window](https://imgur.com/download/qAFKc49)
+## **Download**
+https://github.com/Adam8882000/VPN-Client/releases
